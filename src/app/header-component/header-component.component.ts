@@ -11,5 +11,5 @@ export class HeaderComponentComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  title = 'SAHAYAKA';
 }
